@@ -8,5 +8,6 @@ namespace ConsoleApp42
 {
     class NewClass1
     {
+        // komentar234
     }
 }
